@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"hw1","l":"NegadecimalCalculator"},{"p":"hw1","l":"NegadecimalNumber"},{"p":"hw1","l":"RichArray"},{"p":"hw1","l":"RichArrayTest"},{"p":"hw1","l":"TestNegadecimalCalculator"}];updateSearchResults();
